@@ -1,0 +1,15 @@
+.choiceBody {
+    background-color: #ffffff;
+    min-width: 60vh;
+}
+
+.choiceButton {
+    border-radius: 3em;
+    background-color: #282c34;
+    color: #ffffff;
+    padding: 1em;
+}
+
+.choiceButton:hover {
+    cursor: pointer;
+}
